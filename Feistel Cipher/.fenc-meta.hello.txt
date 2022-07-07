@@ -1,0 +1,6 @@
+{
+ "salt": "1f1cf3fa45e6a037100cf9c4eadb6a55",
+ "validator": "3921a20e1bf254e80f36d8dcc60e4c7c4aff4010e4ea9827375b171ee6189125",
+ "mac": "662cfe7b852847ee",
+ "terms": []
+}
